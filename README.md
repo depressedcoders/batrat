@@ -1,0 +1,2 @@
+# batcore
+F*ck Hypixel
